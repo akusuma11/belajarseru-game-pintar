@@ -1,73 +1,132 @@
-# Welcome to your Lovable project
+# 🎉 Belajar Ceria
 
-## Project info
+<div align="center">
+  <h3>✨ Aplikasi Pembelajaran Interaktif untuk Siswa Kelas 4 SD ✨</h3>
+  <p>Belajar jadi lebih seru dengan kuis interaktif dan materi menarik!</p>
+</div>
 
-**URL**: https://lovable.dev/projects/687a7fe2-9c67-4cbc-8b46-1e8aa691607a
+---
 
-## How can I edit this code?
+## 📚 Tentang Belajar Ceria
 
-There are several ways of editing your application.
+**Belajar Ceria** adalah aplikasi pembelajaran interaktif yang dirancang khusus untuk siswa kelas 4 SD. Dengan pendekatan gamifikasi dan desain yang ramah anak, aplikasi ini membuat proses belajar menjadi lebih menyenangkan dan efektif!
 
-**Use Lovable**
+### 🌟 Fitur Utama
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/687a7fe2-9c67-4cbc-8b46-1e8aa691607a) and start prompting.
+- **📖 4 Mata Pelajaran Lengkap**
+  - Matematika - Berhitung jadi lebih mudah!
+  - IPA - Jelajahi dunia sains yang menakjubkan!
+  - Bahasa Indonesia - Tingkatkan kemampuan berbahasa!
+  - Bahasa Inggris - Learn English with fun!
 
-Changes made via Lovable will be committed automatically to this repo.
+- **🎮 Kuis Interaktif**
+  - Pertanyaan yang menarik dan sesuai kurikulum
+  - Sistem poin untuk setiap jawaban benar
+  - Feedback langsung untuk jawaban salah
+  - Animasi yang ceria dan menarik
 
-**Use your preferred IDE**
+- **🏆 Sistem Pencapaian**
+  - Badge pencapaian untuk motivasi belajar
+  - Tracking progress untuk setiap mata pelajaran
+  - Total poin yang bisa dikumpulkan
+  - Sertifikat digital (coming soon!)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **🎨 Desain Ramah Anak**
+  - Warna-warna cerah dan menarik
+  - Ikon-ikon yang mudah dipahami
+  - Animasi smooth dan responsif
+  - Interface yang intuitif
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Teknologi yang Digunakan
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Aplikasi ini dibangun dengan teknologi modern dan terkini:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **⚛️ React 18** - Library UI yang powerful
+- **⚡ Vite** - Build tool yang super cepat
+- **🎨 Tailwind CSS** - Styling yang elegant dan konsisten
+- **🧩 TypeScript** - Type-safe JavaScript
+- **🎭 Shadcn UI** - Komponen UI yang beautiful
+- **🎯 React Router** - Navigation yang smooth
+- **🎪 Lucide Icons** - Icon set yang lengkap
+- **📱 Responsive Design** - Works on all devices!
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 💻 Instalasi & Menjalankan Aplikasi
+
+### Prasyarat
+- Node.js (versi 18 atau lebih baru)
+- npm atau yarn
+
+### Langkah-langkah
+
+1. **Clone repository**
+   ```bash
+   git clone <YOUR_GIT_URL>
+   cd belajar-ceria
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Jalankan development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Buka browser**
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 📦 Build untuk Production
+
+```bash
+npm run build
 ```
 
-**Edit a file directly in GitHub**
+File production akan tersedia di folder `dist/`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🎯 Roadmap & Fitur Mendatang
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- [ ] 🤖 Integrasi AI untuk personalisasi pembelajaran
+- [ ] 📊 Dashboard untuk orang tua/guru
+- [ ] 🎵 Pembelajaran dengan audio dan video
+- [ ] 👥 Mode multiplayer untuk kuis bersama teman
+- [ ] 📱 Progressive Web App (PWA)
+- [ ] 🌐 Multi-language support
+- [ ] 📧 Sistem notifikasi dan reminder belajar
+- [ ] 🎁 Reward system yang lebih kompleks
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🤝 Kontribusi
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Kontribusi, issues, dan feature requests sangat diterima! Jangan ragu untuk check [issues page](../../issues).
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/687a7fe2-9c67-4cbc-8b46-1e8aa691607a) and click on Share -> Publish.
+## 📝 Lisensi
 
-## Can I connect a custom domain to my Lovable project?
+Project ini dikembangkan dengan ❤️ menggunakan [Lovable](https://lovable.dev)
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🙏 Ucapan Terima Kasih
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Terima kasih kepada semua guru, orang tua, dan siswa yang telah memberikan feedback untuk pengembangan aplikasi ini!
+
+---
+
+<div align="center">
+  <p>Dibuat dengan 💜 untuk generasi cerdas Indonesia</p>
+  <p><strong>Happy Learning! 🎓</strong></p>
+</div>
